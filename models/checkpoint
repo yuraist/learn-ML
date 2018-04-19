@@ -1,0 +1,2 @@
+model_checkpoint_path: "chapt11_model1.ckpt"
+all_model_checkpoint_paths: "chapt11_model1.ckpt"
